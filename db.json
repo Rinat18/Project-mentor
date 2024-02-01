@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "title": "",
+      "description": "",
+      "price": 118,
+      "image": "asdasd",
+      "name": "asd",
+      "desription": "asdas",
+      "id": 1
+    },
+    {
+      "title": "asd",
+      "description": "",
+      "price": 118,
+      "image": "asd",
+      "desription": "asd",
+      "id": 2
+    },
+    {
+      "title": "asd",
+      "description": "asdasd",
+      "price": 123123,
+      "image": "sad",
+      "id": 3
+    },
+    {
+      "title": "asd",
+      "description": "asdasd",
+      "price": 123123,
+      "image": "sad",
+      "id": 4
+    },
+    {
+      "title": "asdasd",
+      "description": "asdad",
+      "price": 2131231,
+      "image": "asdasdas",
+      "id": 5
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": 0,
+      "image": "",
+      "id": 6
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": 0,
+      "image": "",
+      "id": 7
+    },
+    {
+      "title": "dasdasd",
+      "description": "",
+      "price": 0,
+      "image": "",
+      "id": 8
+    }
+  ],
+  "categories": []
+}
